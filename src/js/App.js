@@ -1,8 +1,8 @@
 import React from 'react';
-import ListGroup from './components/ListGroup.jsx'
+import MainContainer from './components/MainContainer.jsx'
 
 const App = () => {
-    return <div><ListGroup/></div>;
+    return <div><MainContainer/></div>;
 }
 
 export default App

@@ -7,4 +7,4 @@ contextBridge.exposeInMainWorld('electron', {
             ipcRenderer.send('notify', message);
         }
     },
-})
+});
